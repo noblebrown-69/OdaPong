@@ -1,0 +1,5 @@
+pong
+*.o
+*.exe
+*.out
+.DS_Store
